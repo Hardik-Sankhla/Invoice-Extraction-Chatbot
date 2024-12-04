@@ -1,0 +1,15 @@
+google
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain-community
+langchain-groq
+unstructured
+selenium
+pandas
+streamlit-lottie
+pytesseract
