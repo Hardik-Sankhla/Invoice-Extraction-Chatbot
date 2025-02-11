@@ -46,8 +46,8 @@ Gemini Invoice Analyzer is an advanced AI-based web application designed to proc
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/Hardik-Sankhla/Gemini-Invoice-Analyzer.git
-cd Gemini-Invoice-Analyzer
+git clone https://github.com/Hardik-Sankhla/Invoice-Extraction-Chatbot.git
+cd Invoice-Extraction-Chatbot
 ```
 
 ### 🔹 Setup Virtual Environment
@@ -78,7 +78,7 @@ Open the browser and go to `http://localhost:8501` to access the application.
 ## 💂️‍ File Structure
 
 ```bash
-Gemini-Invoice-Analyzer/
+Invoice-Extraction-Chatbot/
 │
 ├── services/
 │   ├── gemini_service.py  # Handles API calls to Gemini AI
